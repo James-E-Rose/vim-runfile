@@ -1,0 +1,6 @@
+" Example translator map
+" Format: language_name=command_to_run
+" % denotes the path to the source file
+c=gcc % -o %.elf && %.elf
+cpp=g++ % -o %.elf && %.elf
+python3=python3 %

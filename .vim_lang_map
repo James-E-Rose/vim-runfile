@@ -1,0 +1,5 @@
+" Example lang map
+" Format: extension=language_name
+c=c
+cpp=cpp
+py=python3
